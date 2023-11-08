@@ -1,4 +1,4 @@
-### Daniel Kaufman, TEMPO Lead Data Scientist @ NASA's Atmospheric Science Data Center (ASDC)
+### 👋 Daniel Kaufman, TEMPO Lead Data Scientist @ NASA's Atmospheric Science Data Center (ASDC)
 
 - 🧪 [ORCID](https://orcid.org/0000-0002-1487-7298)
 - 🏢 My personal account: [@dkauf42](https://github.com/dkauf42)
